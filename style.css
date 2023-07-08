@@ -6,8 +6,10 @@
 }
 .wrapper{
     height: 100vh;
+    background-size: 130%;
     background-image: url(bg.png);
     background-position: center; 
+
     display: grid; 
     place-items: center;
 }
